@@ -7,7 +7,7 @@
 * Name: SaintCoinWorld
 * Symbol: SNTW
 * Decimals: 18
-* Standard: ERC20 & PoSTokenStandard
+* Standard: ERC20
 * Platform: Ethereum
 * Total Supply: 90,000,000 SNTW
 
